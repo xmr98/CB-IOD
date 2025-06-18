@@ -1,2 +1,3 @@
 # CB-IOD
-This is a Vedio link repository for our paper:CB-IOD: Balancing Energy Consumption and Model Accuracy for Indoor Outdoor Detection using Dynamic Model Selection
+This is a experimental Vedio link repository for our paper:CB-IOD: Balancing Energy Consumption and Model Accuracy for Indoor Outdoor Detection using Dynamic Model Selection
+The experimental Vedio link is coming soon……
